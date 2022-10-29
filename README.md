@@ -2,5 +2,5 @@
 
 Please have a look at my work.
 
-https://github.com/itlancer999/black-swan/
+https://itlancer999.github.io/black-swan/
 
